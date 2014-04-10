@@ -1,0 +1,18 @@
+{
+  "name": "test-element",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#master"
+  },
+  "homepage": "https://github.com/addyosmani/test-element",
+  "_release": "4d3f59777c",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4d3f59777c220f0b459aefbc89606be59d8455d9"
+  },
+  "_source": "git://github.com/addyosmani/test-element.git",
+  "_target": "master",
+  "_originalSource": "addyosmani/test-element",
+  "_direct": true
+}
